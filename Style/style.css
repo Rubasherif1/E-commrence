@@ -1,0 +1,618 @@
+.navbar-nav{
+    padding-left: 35em;
+}
+.navbar{
+    background-color: lavender;
+}
+.nav-item{
+    margin-right: 1em;
+}
+.nav-link{
+    color: black;
+}
+.back-ground{
+    background-image: url('../images/hero4.png');
+    background-position: 95%;
+    height: 40em;
+    background-size: cover;
+    margin: 0em 0em 5em 0em;
+}
+.text-section{
+    float: left;
+    margin: 0em 4em 2em 4em;
+}
+.para{
+    margin: 4em 0em 0em 0em;
+    font-weight: 500;
+    font-size: 1.5em;
+}
+.first-heading{
+    margin: 6px 0px 20px 0px;
+
+}
+.span-heading{
+    margin: 0px 0px 20px 2px;
+}
+span{
+    color: darkcyan;
+}
+.short-parag{
+    color: dimgray;
+}
+.shop-button{
+    color: darkcyan;
+    margin: -41px 0px 0px 50px;
+    cursor: pointer;
+}
+.container{
+    margin-bottom: 5em;
+}
+.photo-section-1{
+    border-radius: 6px;
+    border: 2px solid #CCCCCC;
+    background-image: url('../images/f1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 205px;
+    height: 208px;
+}
+.heading-1{
+    background-color: pink;
+    margin: 7.8em 1em 0em 1em;
+    text-align: center;
+}
+.photo-section-2{
+    border: 2px solid #CCCCCC;
+    border-radius: 6px;
+    background-image: url('../images/f2.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 205px;
+    height: 208px;
+    margin: -13em 0em 0em 15em;
+}
+.headig-2{
+    background-color: darkseagreen;
+    margin: 8em 1em 0em 1em;
+    text-align: center;
+}
+.photo-section-3{
+    border: 2px solid #CCCCCC;
+    border-radius: 6px;
+    background-image: url('../images/f3.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 205px;
+    height: 208px;
+    margin: -13em 0em 0em 30em;
+}
+.headig-3{
+    background-color: lightblue;
+    margin: 8em 1em 0em 1em;
+    text-align: center;
+}
+.photo-section-4{
+    border: 2px solid #CCCCCC;
+    border-radius: 6px;
+    background-image: url('../images/f4.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 205px;
+    height: 208px;
+    margin: -13em 0em 0em 45em;
+}
+.photo-section-5{
+    border: 2px solid #CCCCCC;
+    border-radius: 6px;
+    background-image: url('../images/f5.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 205px;
+    height: 208px;
+    margin: -13em 0em 0em 60em;
+}
+.photo-section-6{
+    border: 2px solid #CCCCCC;
+    border-radius: 6px;
+    background-image: url('../images/f6.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 205px;
+    height: 208px;
+    margin: 2em 0em;
+}
+.heading-4{
+    background-color: bisque;
+    margin: 8em 1em 0em 1em;
+    text-align: center;
+}
+.clothes-title{
+    margin-bottom: 4em;
+}
+.clothes-heading{
+    margin: 0em 0em 0em 13em;
+}
+.clothes-parag{
+    color: #777;
+    margin: 1em 0em 0em 34em;
+}
+.clothes-section-1{
+    border: 2px solid #CCCCCC;
+    border-radius: 10px;
+    background-position: center;
+    width: 265px;
+    height: 375px;
+    margin: 0em -2em;
+}
+.image{
+    margin: 1em 1em;
+    border-radius: 12px;
+}
+.parag{
+    color: #777;
+    margin-left: 1em;
+}
+.clothes-type{
+    margin: -16px 14px;
+}
+.container{
+    margin-bottom: 0em;
+}
+.price{
+    font-weight: 700;
+    color: darkcyan;
+    margin: -15px 10px;
+    font-size: larger;
+}
+.fas{
+    color: orange;
+    margin: 18px 0px;
+    list-style: none;
+}
+.button-icon{
+    list-style: none;
+    width: 42px;
+    height: 42px;
+    color: darkcyan;
+    background-color: lavender;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-radius: 50%;
+    margin: -2.5em 13em;
+}
+.clothes-section-2{
+    border: 2px solid #CCCCCC;
+    border-radius: 10px;
+    background-position: center;
+    width: 265px;
+    height: 375px;
+    margin: -23.5em 17em;
+}
+.clothes-section-3{
+    border: 2px solid #CCCCCC;
+    border-radius: 10px;
+    background-position: center;
+    width: 265px;
+    height: 375px;
+    margin: -23.5em 36em;
+}
+.clothes-section-4{
+    border: 2px solid #CCCCCC;
+    border-radius: 10px;
+    background-position: center;
+    width: 265px;
+    height: 375px;
+    margin: -22.7em 55.6em;
+}
+.clothes-sectionn-5{
+    border: 2px solid #CCCCCC;
+    border-radius: 10px;
+    background-position: center;
+    width: 265px;
+    height: 375px;
+    margin: 25em -2em;
+}
+.clothes-section-6{
+    border: 2px solid #CCCCCC;
+    border-radius: 10px;
+    background-position: center;
+    width: 265px;
+    height: 375px;
+    margin: -48.4em 17em;
+}
+.clothes-section-7{
+    border: 2px solid #CCCCCC;
+    border-radius: 10px;
+    background-position: center;
+    width: 265px;
+    height: 375px;
+    margin: 25em 36.5em;
+}
+.clothes-section-8{
+    border: 2px solid #CCCCCC;
+    border-radius: 10px;
+    background-position: center;
+    width: 265px;
+    height: 375px;
+    margin: -48.6em 56em;
+}
+.bg{
+    background-image: url('../images/b2.jpg');
+    background-position: 96%;
+    height: 18em;
+    margin: 52em 0em 5em 0em;
+}
+.bg-parag{
+    font-weight: 500;
+    color: antiquewhite;
+    font-size: large;
+    padding: 4em 33em;
+}
+.bg-heading{
+    color: antiquewhite;
+    font-weight: 700;
+    margin: -1.7em 0em 0em 6em;
+}
+.bg-span{
+    color: red;
+}
+.info{
+    background-color: white;
+    font-style: italic;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 8px;
+    width: 10em;
+    margin: 1em 36em;
+}
+.New-arr-head{
+    margin: 0em 0em 0em 14em;
+}
+.New-arr-parag{
+    color: #777;
+    margin: 1em 0em 0em 34em;
+}
+.classic-section-1{
+        border: 2px solid #CCCCCC;
+        border-radius: 10px;
+        background-position: center;
+        width: 265px;
+        height: 375px;
+        margin: 3.5em -2em;
+    }
+.classic-img{
+    margin: 1em 1em;
+    border-radius: 12px;
+}
+.classic-section-2{
+    border: 2px solid #CCCCCC;
+    border-radius: 10px;
+    background-position: center;
+    width: 265px;
+    height: 375px;
+    margin: -26.8em 17em;
+}
+.classic-section-3{
+    border: 2px solid #CCCCCC;
+    border-radius: 10px;
+    background-position: center;
+    width: 265px;
+    height: 375px;
+    margin: 3.4em 35.5em;
+}
+.classic-section-4{
+    border: 2px solid #CCCCCC;
+    border-radius: 10px;
+    background-position: center;
+    width: 265px;
+    height: 375px;
+    margin: -26.8em 54.8em;
+}
+.classic-section-5{
+    border: 2px solid #CCCCCC;
+    border-radius: 10px;
+    background-position: center;
+    width: 265px;
+    height: 375px;
+    margin: 29em -2em;
+}
+.classic-section-6{
+    border: 2px solid #CCCCCC;
+    border-radius: 10px;
+    background-position: center;
+    width: 265px;
+    height: 375px;
+    margin: -52em 17em;
+}
+.classic-section-7{
+    border: 2px solid #CCCCCC;
+    border-radius: 10px;
+    background-position: center;
+    width: 265px;
+    height: 375px;
+    margin: 28.6em 35.8em;
+}
+.classic-section-8{
+    border: 2px solid #CCCCCC;
+    border-radius: 10px;
+    background-position: center;
+    width: 265px;
+    height: 375px;
+    margin: -52em 54.8em;
+}
+.bg-section-1{
+    background-image: url('../images/b17.jpg');
+    background-position: 34em;
+    width: 34em;
+    height: 19em;
+    background-size: contain;
+    margin: 55em -2em;
+}
+.bg-text{
+    float: left;
+    margin: -5em -3em;
+}
+.small-heading-1{
+    color: azure;
+    font-style: italic;
+    font-weight: 400;
+    padding: 7em 4em;
+}
+.main-heading-1{
+    color: azure;
+    font-size: revert;
+    font-weight: 700;
+    margin: -4.5em 2.4em;
+}
+.bg-parag-1{
+    color: azure;
+    font-weight: 500;
+    padding: 9.7em 4.8em;
+}
+.button-1{
+    background-color: transparent;
+    color: azure;
+    border: 2px solid white;
+    font-weight: 500;
+    padding: 9px;
+    border-radius: 8px;
+    width: 9em;
+    height: 3em;
+    position: relative;
+    left: 5em;
+    bottom: 9.5em;
+}
+.bg-section-2{
+    background-image: url('../images/b10.jpg');
+    width: 35em;
+    height: 19.4em;
+    background-size: cover;
+    position: absolute;
+    top: 225em;
+    left: 44em;
+}
+.small-heading-2{
+    color: floralwhite;
+    margin: 7em 3.6em;
+    font-weight: 400;
+}
+.main-heading-2{
+    color: floralwhite;
+    margin: -4em 2.3em;
+    font-weight: 700;
+    font-size: revert;
+}
+.bg-parag-2{
+    color: floralwhite;
+    font-weight: 500;
+    padding: 9em 4.6em;
+}
+.button-2{
+    color: floralwhite;
+    background-color: transparent;
+    border: 2px solid white;
+    font-weight: 500;
+    border-radius: 8px;
+    width: 9em;
+    height: 2.9em;
+    position: relative;
+    left: 4.8em;
+    bottom: 9.2em;
+}
+.bg-section-3{
+    background-image: url('../images/b7.jpg');
+    background-position: 0em;
+    width: 35em;
+    height: 12.4em;
+    background-size: cover;
+    position: absolute;
+    top: 248em;
+    left: 5em;
+}
+.main-heading-3{
+    margin: 2em 0.6em;
+    color: floralwhite;
+    font-weight: 800;
+}
+.bg-parag-3{
+    color: red;
+    font-weight: 600;
+    margin: -2.8em 1.2em;
+}
+.bg-section-4{
+    background-image: url('../images/b4.jpg');
+    background-position: 0em;
+    width: 35em;
+    height: 12.4em;
+    background-size: cover;
+    position: absolute;
+    top: 248em;
+    left: 44em;
+}
+.main-heading-4{
+    margin: 2.6em 0.8em;
+    color: floralwhite;
+    font-weight: 800;
+}
+.bg-parag-4{
+    color: red;
+    font-weight: 600;
+    margin: -3.2em 1.2em;
+}
+.bg-section-5{
+    background-image: url('../images/b18.jpg');
+    background-position: 0em;
+    width: 35em;
+    height: 14.4em;
+    background-size: cover;
+    position: absolute;
+    top: 262em;
+    left: 5em;
+}
+.main-heading-5{
+    margin: 4em 1em;
+    color: floralwhite;
+    font-weight: 800;
+}
+.bg-parag-5{
+    color: red;
+    font-weight: 600;
+    margin: -5.2em 1.6em;
+}
+.sign-up-bg{
+    background-color: #09042B;
+    height: 10.5em;
+    margin: -18em 0em 4em 0em;
+}
+.sign-up-heading{
+    color: aliceblue;
+    font-weight: 700;
+    position: absolute;
+    top: 162em;
+    left: 6em;
+}
+.sign-up-parag{
+    color: #777;
+    position: absolute;
+    top: 287em;
+    left: 10.4em;
+}
+.sign-up-span{
+    color: orange;
+    cursor: pointer;
+}
+.sign-up-part{
+    position: relative;
+}
+.email-holder{
+    position: absolute;
+    left: 43em;
+    top: 5em;
+    height: 2.5em;
+    width: 20em;
+    background-color: white;
+    border: 0px;
+    padding: 1em;
+    border-radius: 2px;
+}
+.sign-up-button{
+    position: absolute;
+    background-color: #1E9EA2;
+    color: aliceblue;
+    font-weight: 500;
+    width: 6em;
+    height: 2.8em;
+    left: 57em;
+    top: 74.5px;
+    border: none;
+}
+footer{
+    margin: 5em 0em;
+}
+.contact-heading{
+    margin: 1em 0em;
+}
+.contact-info{
+    margin: 0em 44em 0em 0em;
+    font-weight: 100;
+
+}
+.adress-span{
+    color: #4C4A4D;
+    font-weight: 500;
+}
+.phone-span{
+    color: #4C4A4D;
+    font-weight: 500;
+}
+.time-span{
+    color: #4C4A4D;
+    font-weight: 500;
+}
+.follow-heading{
+    margin: 1.6em 0em;
+}
+.icons{
+    color: dimgray;
+    margin: 0px -4px;
+
+}
+.fa-brands{
+    margin: 0px 4px;
+}
+.second-section{
+    margin: -18em 26em;
+}
+.second-sec-parag{
+    margin: 2em 0em;
+    color: #5E5A5F;
+}
+.third-section{
+    margin: 3em 0em 0em 40em;
+}
+.third-sec-parag{
+    margin: 2em 0em;
+    color: #5E5A5F;
+}
+.forth-section{
+    margin: -17em 0em 0em 51em;
+}
+.forth-sec-parag{
+    margin: 2em 0em;
+    color: #5E5A5F;
+}
+.apple-store{
+    border-color: greenyellow;
+    width: 11em;
+    height: 3.6em;
+}
+.apple-img{
+    position: absolute;
+    right: 15em;
+    top: 304.7em;
+    height: 3.2em;
+    width: 10.7em;
+}
+.google-store{
+    border-color: greenyellow;
+    width: 11em;
+    height: 3.6em;
+    position: absolute;
+    right: 3em;
+}
+.google-img{
+    position: absolute;
+    right: 0em;
+    top: 0em;
+    height: 3.2em;
+    width: 10.7em;
+}
+.payment-parag{
+    margin: 1.4em 0em;
+    color: #5E5A5F;
+}
+.end{
+    color: #5E5A5F;
+    margin: 8.8em 0em 0em -22em;
+}
